@@ -1,3 +1,3 @@
 # Files Manager Api
 
-A working file management api using redis and mongodb
+A working file management API using utilities such as  redis and mongodb
