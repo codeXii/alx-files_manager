@@ -10,3 +10,6 @@ import redisClient from './utils/redis';
         console.log(await redisClient.get('myKey'));
     }, 1000*10)
 })();
+
+
+// main file
